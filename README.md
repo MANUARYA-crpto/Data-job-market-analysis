@@ -14,8 +14,7 @@ This project analyzes the global data job market to understand demand, salary tr
 - Most in-demand data roles
 - Geographic distribution of data jobs worldwide
 
-4. 📁 Dashboard Preview
-Dashboard Overview : https://github.com/MANUARYA-crpto/Data-job-market-analysis/blob/main/Job%20dashboard.png
+4. 📁 Dashboard Preview : https://github.com/MANUARYA-crpto/Data-job-market-analysis/blob/main/Job%20dashboard.png
 
 5.📌 Business Use Case
 - Helps job seekers understand market demand and salary benchmarks
